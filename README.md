@@ -1,7 +1,7 @@
 # 🎯 Kaun Banega Crorepati (KBC) – Python Console Game
 
-Welcome to the Python-based **Kaun Banega Crorepati (KBC)** console game!  
-Inspired by the legendary Indian quiz show, this game tests your general knowledge through a fun, engaging multiple-choice format with a dynamic prize ladder.
+Welcome to the **Kaun Banega Crorepati (KBC)** Python console game!  
+Inspired by the legendary Indian quiz show, this game challenges your general knowledge through an engaging multiple-choice format with a dynamic prize ladder.
 
 ---
 
@@ -9,10 +9,10 @@ Inspired by the legendary Indian quiz show, this game tests your general knowled
 
 This is a console-based quiz game developed using Python, where:
 
-- 🎯 Players answer 15 general knowledge multiple-choice questions.
+- 🎯 Players answer 15 multiple-choice general knowledge questions.
 - 💰 Prize money increases with each correct answer.
-- ❌ A single wrong answer ends the game, and the total winnings are displayed.
-- ✅ Includes input validation, error handling, and modular code design.
+- ❌ A single wrong answer ends the game, and your total winnings are displayed.
+- ✅ Includes input validation, error handling, and a modular code structure.
 
 ---
 
@@ -22,19 +22,18 @@ This is a console-based quiz game developed using Python, where:
 - 📈 Progressive prize ladder (just like the real KBC)  
 - 🔁 Option to replay the game  
 - 📂 Modular design with separate data and logic files  
-- 📄 File handling for storing game results *(if implemented)*  
-- 🚫 Immediate game over on a wrong answer  
+- 📄 File handling for storing game results *(optional/if implemented)*  
+- 🚫 Game ends immediately on a wrong answer  
 
 ---
 
 ## 📂 Project Structure
-
-```plaintext
 kbc-game/
 │
 ├── Data_KBC.py     # Stores all questions and answers
 ├── kbc_game.py     # Main game logic and flow
 └── README.md       # Project documentation
+
 
 ## 🐍 Technologies Used
 
