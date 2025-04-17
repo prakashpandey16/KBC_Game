@@ -37,23 +37,7 @@ kbc-game/
 
 ## 🐍 Technologies Used
 
-- **Python 3**
-- Concepts:
-  - Opps 
-  - Functions
-  - Conditional statements
-  - Loops
-  - File handling
-  - Exception handling
-  - Modular code structure (if using multiple files)
-
----
-
----
-
-## 🐍 Technologies Used
-
-- **Python 3**
+- **Python 3.12**
 - Key Concepts:
   - Object-Oriented Programming (OOP)
   - Functions
