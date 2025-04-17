@@ -18,12 +18,12 @@ This is a console-based quiz game developed using Python, where:
 
 ## 🛠️ Features
 
-- 💡 15 curated general knowledge questions
-- 📈 Progressive prize ladder (just like the real KBC)
-- 🔁 Option to replay the game
-- 📂 Modular design with separate data and logic files
-- 📄 File handling for storing game results (if implemented)
-- 🚫 Immediate game over on a wrong answer
+- 💡 15 curated general knowledge questions  
+- 📈 Progressive prize ladder (just like the real KBC)  
+- 🔁 Option to replay the game  
+- 📂 Modular design with separate data and logic files  
+- 📄 File handling for storing game results *(if implemented)*  
+- 🚫 Immediate game over on a wrong answer  
 
 ---
 
