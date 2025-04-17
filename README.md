@@ -29,6 +29,7 @@ This is a console-based quiz game developed using Python, where:
 
 ## 📂 Project Structure
 
+```plaintext
 kbc-game/
 │
 ├── Data_KBC.py     # Stores all questions and answers
